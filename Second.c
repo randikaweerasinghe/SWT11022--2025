@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() {
-       
-        printf("Wellcome to thr Fundamental Programming Sesion!\n");
-         
+
+        printf("Welcome to the Fundamental Programming Session!\n");
+        printf("Randika Weeerasinghe");
+
         return 0;
 }
